@@ -1,2 +1,2 @@
 # hello-world
-Things and stuff.
+This is my first time on this website. I already like it!
